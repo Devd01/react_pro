@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import axios from 'axios';
 import ReactDOM from 'react-dom';
 import './App.css';
@@ -76,5 +76,5 @@ placeholder="Launch Year"
 );
 }
 }
-ReactDOM.render(<App />, document.getElementById("root"));
+eport default App;
 
